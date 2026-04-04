@@ -4,7 +4,7 @@
 
 <center>
   <a href="https://space.bilibili.com/3546977671318086">/哔哩哔哩</a>
-  <a href="[URL](https://www.luogu.com.cn/user/1638033)">/洛谷</a>
-  <a href="[URL](https://github.com/Andorn0t)">/GITHUB</a>
-  <a href="[URL](https://user.qzone.qq.com/3657327675?loginfrom=2)">/QQ</a>
+  <a href="https://www.luogu.com.cn/user/1638033">/洛谷</a>
+  <a href="https://github.com/Andorn0t">/GITHUB</a>
+  <a href="https://user.qzone.qq.com/3657327675?loginfrom=2">/QQ</a>
 </center>
