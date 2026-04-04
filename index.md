@@ -1,7 +1,6 @@
 ---
 title: /打烷
 ---
-![photo1](Dreamcore7.png)
 好的。我是打烷，在一般情况下的英文名使用 Alkane (主要用于只能使用英文名称的场景)，重名了则会略有更改。欢迎来各大地方找我。
 
 <center>
@@ -11,3 +10,14 @@ title: /打烷
   <a href="https://user.qzone.qq.com/3657327675?loginfrom=2">/QQ</a>
 </center>
 <br>一位蒟蒻OIer，正与我常常追忆过去生命瞬间定格在脑海对峙。而且喜欢PH。我写个人介绍也不知道想些什么，那我说一句，[欢迎报名洛谷网校课程](https://class.luogu.com.cn/)，没了。
+
+---
+
+## 文章列表
+{% for post in site.posts %}
+[{{ post.date | date: "%Y-%m-%d" }}] <a href="{{ post.url }}">{{ post.title }}</a><br>
+{% endfor %}
+
+<style>
+  main br:last-of-type { display: none !important; }
+</style>
