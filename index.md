@@ -1,7 +1,7 @@
 ---
 title: /打烷
 ---
-
+![photo1](https://static.wikia.nocookie.net/aesthetics/images/c/cb/Dreamcore7.jpg/revision/latest?cb=20230806041124&path-prefix=zh)
 好的。我是打烷，在一般情况下的英文名使用 Alkane (主要用于只能使用英文名称的场景)，重名了则会略有更改。欢迎来各大地方找我。
 
 <center>
