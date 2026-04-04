@@ -7,3 +7,4 @@ footer: 'Alkane | 我常常追忆过去'
 header_pages:
   - index.md
   - recall.md
+markdown: kramdown
