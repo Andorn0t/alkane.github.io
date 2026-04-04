@@ -4,3 +4,6 @@ plugins:
 remote_theme: b2a3e8/jekyll-theme-console
 style: light
 footer: 'Alkane | 我常常追忆过去'
+header_pages:
+  - index.md
+  - recall.md
