@@ -10,14 +10,3 @@ title: /打烷
   <a href="https://user.qzone.qq.com/3657327675?loginfrom=2">/QQ</a>
 </center>
 <br>一位蒟蒻OIer，正与我常常追忆过去生命瞬间定格在脑海对峙。而且喜欢PH。我写个人介绍也不知道想些什么，那我说一句，[欢迎报名洛谷网校课程](https://class.luogu.com.cn/)，没了。
-
----
-
-## 文章列表
-{% for post in site.posts %}
-[{{ post.date | date: "%Y-%m-%d" }}] <a href="{{ post.url }}">{{ post.title }}</a><br>
-{% endfor %}
-
-<style>
-  main br:last-of-type { display: none !important; }
-</style>
